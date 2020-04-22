@@ -1,4 +1,10 @@
+html {
 
+    font-family: sans;
+}
+
+
+/* */
 
 body {
 
@@ -70,3 +76,5 @@ display: block;
  display: inline-flex;
  justify-content: flex-end;
 }
+
+
