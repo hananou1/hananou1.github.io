@@ -1,6 +1,7 @@
 html {
 
     font-family: sans;
+    margin: 2em;
 }
 
 
@@ -15,7 +16,7 @@ div {
     font-size: 1em;
     font-family: Marker felt;
     text-align: center;
-    margin-bottom: 5em;
+    margin-bottom: 3em;
     font-stretch: 2em;
 }
 
@@ -25,9 +26,33 @@ margin-left: auto;
 margin-right: auto;
 width: 18em;
 display: block;
-font-size: 24px
+font-size: 24px;
+
 
 }
+
+span ul {
+
+    display: inline-flex;
+    justify-content: space-around;
+    margin-bottom: 5em;
+}
+
+span li {
+
+    padding: 7em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f8cb02;
+    border-radius: 5px;
+    margin: 1em;
+
+}
+
+
+
+   
+
 
 
 
@@ -40,20 +65,21 @@ ul {
     list-style: none
 }
 
+ section.blue {
 
-.Fler {
-
-  background-color: #bfd9ee;
+      background-color: #bfd9ee;
+      padding: 1em 2em 2em 2em;
 }
 
-h2, h3 {margin-left: 3em;
+
+
+header {margin-left: 3em;
+        color: #f8cb02;
 
 
 }
 
-h2 {
-    color: #f8cb02;
-}
+
 
 .article {
     margin-left: 1em;
@@ -74,7 +100,10 @@ display: block;
 .photos {
 
  display: inline-flex;
- justify-content: flex-end;
+ margin: auto;
+
 }
+
+
 
 
