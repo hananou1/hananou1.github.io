@@ -99,33 +99,9 @@ display: block;
 
 .photos {
 
- display: inline-flex;
- margin: auto;
+ text-align: center;
 
 }
-
-img {
-
-    align-content: flex;
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
