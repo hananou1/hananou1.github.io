@@ -1,107 +1,306 @@
 html {
 
-    font-family: sans;
-    margin: 2em;
-}
-
-
-/* */
-
-body {
-
-    line-height: 200%;
-}
-
-div {
-    font-size: 1em;
-    font-family: Marker felt;
-    text-align: center;
-    margin-bottom: 3em;
-    font-stretch: 2em;
-}
-
-
-.infosperso {
-margin-left: auto;
-margin-right: auto;
-width: 18em;
-display: block;
-font-size: 24px;
-
-
-}
-
-span ul {
-
-    display: inline-flex;
-    justify-content: space-around;
-    margin-bottom: 5em;
-}
-
-span li {
-
-    padding: 7em;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #f8cb02;
-    border-radius: 5px;
-    margin: 1em;
+ background: #DFF6FF;
+ font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 
 }
 
 
+.scrollbar {
 
-   
+position: absolute;
+width: 100%;
+height: 800px;
+left: 0px;
+top: 0px;
+overflow-y: scroll;
+color: black;
+}
 
 
 
+.background {
 
-a {
-    color: #f8cb02
+position: absolute;
+width: 1158px;
+height: 2946px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 27px rgba(0, 0, 0, 0.4);
+}
+
+
+.photodeprofil {
+position: absolute;
+width: 515px;
+height: 598px;
+left: 0px;
+top: 0px;
+}
+
+div h1 {
+position: absolute;
+width: 280px;
+height: 38px;
+left: 553px;
+top: 179px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #243572;
+}
+
+div h2 {
+
+position: absolute;
+width: 464px;
+height: 64.92px;
+left: 552px;
+top: 231px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+
+color: #243572;
 
 }
+.barre {
+position: absolute;
+width: 20em;
+height: 0em;
+left: 34.75em;
+top: 20em;
+
+border: 2em solid #DFF6FF;
+transform: rotate(-3.19deg);
+}
+
+.projets {
+
+position: absolute;
+width: 1158px;
+height: 2348px;
+left: 0px;
+top: 598px;
+
+background: #FFFAC9;
+
+}
+
+.projets h1 {
+position: absolute;
+width: 310px;
+height: 200px;
+left: 0px;
+top: 200px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 144px;
+line-height: 169px;
+
+color: #FCF3AF;
+
+transform: rotate(-90deg);
+}
+
+article .couverturefler img {
+position: absolute;
+width: 400px;
+height: 500px;
+left: 670px;
+top: 150px;
+}
+
+article .Projet2 img {
+
+position: absolute;
+width: 400px;
+height: 500px;
+left: 105px;
+top: 775.6px;
+
+background: #C4C4C4;
+
+}
+
+
+
+  	                      /*Scroll here first*/  
+
+.line {
+
+position: absolute;
+width: 2235px;
+height: 0px;
+left: 0px;
+top: 1600px;
+
+border: 2px solid #F5694C;
+transform: rotate(90deg);
+
+}
+
+.scroll {
+
+position: absolute;
+width: 128px;
+height: 21px;
+left: 1053px;
+top: 355px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #F5694C;
+
+transform: rotate(-90deg);
+
+}
+
+.Ellipse {
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1094px;
+top: 427px;
+
+background: #FFFFFF;
+border: 4px solid #F5694C;
+box-sizing: border-box;
+border-radius: 50%;
+
+}
+
+
+.arrow {
+
+position: absolute;
+width: 22.09px;
+height: 22.5px;
+left: 1107px;
+top: 439px;
+
+}
+
+/*Firstground*/
+
+.firstground {
+position: fixed;
+width: 100%;
+height: 2296px;
+left: 0px;
+top: 650px;
+background: #FFFFFF;
+}
+
+
+
 
 ul {
-    list-style: none
-}
-
- section.blue {
-
-      background-color: #bfd9ee;
-      padding: 1em 2em 2em 2em;
-}
-
-
-
-header {margin-left: 3em;
-        color: #f8cb02;
-
-
+	
+	display: inline-flex;
+	margin-left: 298px;
+	align-content: space-between;
+	list-style: none;
 }
 
 
 
-.article {
-    margin-left: 1em;
-    margin-top: 2em;
-    margin-bottom: 2em;
+li {
 
+padding-right: 7em;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+
+color: #F5694C;
+
+	
 }
 
-.schema {
+.linemenu1
 
-    margin-left: auto;
-margin-right: auto;
-width: 38em;
-display: block;
+{
+position: fixed;
+width: 20px;
+height: 0px;
+left: 300px;
+top: 682px;
 
+border: 1px solid #F5694C;
+transform: rotate(90deg);
 }
 
-.photos {
+.linemenu2
 
- text-align: center;
+{
+position: fixed;
+width: 20px;
+height: 0px;
+left: 615px;
+top: 682px;
 
+border: 1px solid #F5694C;
+transform: rotate(90deg);
 }
+
+.linemenu3
+
+{
+position: fixed;
+width: 20px;
+height: 0px;
+left: 910px;
+top: 682px;
+
+border: 1px solid #F5694C;
+transform: rotate(90deg);
+}
+
+.articles {
+
+position: fixed;
+width: 1122px;
+height: 328px;
+left: 104px;
+top: 780px;
+
+background: #DFF6FF;
+border-radius: 16px;
+}
+
+.arrow2 {
+
+
+position: fixed;
+width: 180px;
+height: 0px;
+left: 1312px;
+top: 300px;
+}
+
+
+
+
+
+
+
 
 
 
