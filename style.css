@@ -200,7 +200,7 @@ top: 439px;
 
 /*Firstground*/
 
-.firstground {
+.menu {
 
 position: sticky;
 width: 100%;
@@ -260,7 +260,7 @@ transform: rotate(90deg);
 .linemenu2
 
 {
-position: fixed;
+position: sticky;
 width: 20px;
 height: 0px;
 left: 615px;
@@ -273,7 +273,7 @@ transform: rotate(90deg);
 .linemenu3
 
 {
-position: fixed;
+position: sticky;
 width: 20px;
 height: 0px;
 left: 910px;
@@ -283,37 +283,6 @@ border: 1px solid #F5694C;
 transform: rotate(90deg);
 }
 
-.articles {
-
-position: fixed;
-width: 1122px;
-height: 328px;
-left: 104px;
-top: 780px;
-
-background: #DFF6FF;
-border-radius: 16px;
-}
-
-p .articles {
-
-position: absolute;
-width: 930px;
-height: 181px;
-left: 200px;
-top: 860px;
-
-font-family: Roboto;
-font-style: italic;
-font-weight: 300;
-font-size: 36px;
-line-height: 50px;
-/* or 139% */
-
-
-color: #243572;
-
-}
 
 .arrow2 {
 
