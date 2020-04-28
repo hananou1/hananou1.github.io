@@ -198,29 +198,9 @@ top: 439px;
 
 }
 
-/*Firstground*/
-
-.firstground 
-
-ul {
-	display: inline-flex;
-	margin-left: 298px;
-	align-content: space-between;
-	list-style: none;
-}
+                    /*Firstground*/
 
 
-li {
-
-padding-right: 7em;
-font-weight: bold;
-font-size: 28px;
-line-height: 33px;
-
-color: #F5694C;
-
-	
-}
 
 .linemenu1
 
@@ -303,8 +283,9 @@ left: 1312px;
 top: 300px;
 }
 
-.menu {
 
+.firstground {
+	
 position: fixed;
 width: 100%;
 height: 700px;
@@ -312,7 +293,30 @@ left: 0px;
 top: 500px;
 
 background: #FFFFFF;
+}
 
+ul {
+	display: inline-flex;
+	margin-left: 298px;
+	align-content: space-between;
+	list-style: none;
+}
+
+
+li {
+
+padding-right: 7em;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+
+color: #F5694C;
+
+	
+}
+
+
+.menu {
 }
 
 
