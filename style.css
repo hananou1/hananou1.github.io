@@ -200,17 +200,7 @@ top: 439px;
 
 /*Firstground*/
 
-.firstground {
-
-position: fixed;
-width: 1442px;
-height: 700px;
-left: 0px;
-top: 500px;
-
-background: #FFFFFF;
-}
-
+.firstground 
 
 ul {
 	display: inline-flex;
@@ -311,6 +301,18 @@ width: 180px;
 height: 0px;
 left: 1312px;
 top: 300px;
+}
+
+.menu {
+
+position: fixed;
+width: 100%;
+height: 700px;
+left: 0px;
+top: 500px;
+
+background: #FFFFFF;
+
 }
 
 
