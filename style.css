@@ -202,7 +202,7 @@ top: 439px;
 
 .firstground {
 
-position: absolute;
+position: fixed;
 width: 1158px;
 height: 88px;
 left: 0px;
