@@ -247,7 +247,7 @@ padding: 0px;
 .linemenu1
 
 {
-position: fixed;
+position: sticky;
 width: 20px;
 height: 0px;
 left: 300px;
