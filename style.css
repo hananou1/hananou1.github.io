@@ -234,11 +234,13 @@ color: #F5694C;
 
 .lines {
 
+position: absolute;
 width: 20px;
 height: 0px;
 left: 300px;
 top: 682px;
-
+margin: 0px;
+padding: 0px;
 }
 
 .linemenu1
