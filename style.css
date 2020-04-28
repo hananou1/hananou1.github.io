@@ -231,7 +231,7 @@ color: #F5694C;
 
 	
 }
-
+/*
 .lines {
 
 position: absolute;
@@ -242,6 +242,7 @@ top: 720px;
 margin: 0px;
 padding: 0px;
 }
+*/
 
 .linemenu1
 
@@ -250,7 +251,7 @@ position: fixed;
 width: 20px;
 height: 0px;
 left: 300px;
-top: 682px;
+top: 720px;
 
 border: 1px solid #F5694C;
 transform: rotate(90deg);
@@ -263,7 +264,7 @@ position: fixed;
 width: 20px;
 height: 0px;
 left: 615px;
-top: 682px;
+top: 720px;
 
 border: 1px solid #F5694C;
 transform: rotate(90deg);
@@ -276,7 +277,7 @@ position: fixed;
 width: 20px;
 height: 0px;
 left: 910px;
-top: 682px;
+top: 720px;
 
 border: 1px solid #F5694C;
 transform: rotate(90deg);
