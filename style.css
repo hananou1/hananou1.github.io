@@ -206,20 +206,12 @@ position: absolute;
 width: 1158px;
 height: 88px;
 left: 0px;
-top: 774px;
+top: 700px;
 
 background: #FFFFFF;
-}
-
-
-.menu {
-
-	position: absolute;
-	width: 100%;
-	left: 0px;
-	top: 600px;
 
 }
+
 
 ul {
 	display: inline-flex;
