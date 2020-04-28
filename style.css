@@ -271,17 +271,7 @@ border: 1px solid #F5694C;
 transform: rotate(90deg);
 }
 
-.articles {
 
-position: fixed;
-width: 1122px;
-height: 328px;
-left: 104px;
-top: 780px;
-
-background: #DFF6FF;
-border-radius: 16px;
-}
 
 p .articles {
 
