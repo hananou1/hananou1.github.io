@@ -286,6 +286,7 @@ body {
 	width: 30%;
 	height: 30%
 	top: 0;
+	transform: matrix(-1, 0, 0, 1, 0, 0);
 
 }
 
@@ -320,12 +321,12 @@ article p {
 
 .ElipseBleue {
 
-	position: absolute;
-	width: 50px;
-	height: 50px;
-	left: 1340px;
-	top: 300px;
-	background-color:#DFF6FF;
+position: absolute;
+width: 100px;
+height: 100px;
+left: 980px;
+top: 150px;
+background-color: #DFF6FF;
 
 }
 
