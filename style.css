@@ -280,7 +280,7 @@ body {
 
 .portraitJF {
 
-	border-radius: 0 0 0 100%;
+	border-radius: 100 0 0 0%;
 	position: absolute;
 	left: 70%;
 	width: 30%;
@@ -327,6 +327,7 @@ height: 100px;
 left: 980px;
 top: 150px;
 background-color: #DFF6FF;
+border-radius: 100%;
 
 }
 
