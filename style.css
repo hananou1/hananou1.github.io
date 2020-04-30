@@ -297,7 +297,7 @@ body {
 	left: 6%;
 }
 
-article .prez p {
+article.prez p {
 
 	position: absolute;
 	width: 60%;
