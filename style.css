@@ -268,9 +268,13 @@ body {
 	margin: 0;
 }
 
-.Contexte {
+.Contenaircontexte {
 
 	background-color: white;
+}
+
+.prez {
+	display: flex;
 }
 
 .portraitJF {
@@ -280,7 +284,7 @@ body {
 	left: 79%;
 	width: 21%;
 	top: 0;
-	
+
 }
 
 .LogoFler {
