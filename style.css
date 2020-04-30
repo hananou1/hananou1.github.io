@@ -261,6 +261,11 @@ position: sticky;
 
 */
 
+header {
+
+	padding: 2%;
+}
+
 body {
 
 	margin: 0;
