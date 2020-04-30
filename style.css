@@ -275,20 +275,12 @@ body {
 
 .portraitJF {
 
-position: absolute;
-width: 447px;
-height: 483px;
-left: 1441px;
-top: 100px;
-
-background: url(Capture d’écran 2020-04-30 à 13.35.png);
-border-radius: 0px 0px 900px 0px;
-transform: matrix(-1, 0, 0, 1, 0, 0);
+	border-radius: 0 0 0 100%;
 }
 
 .LogoFler {
 
-	padding: 5%;
+	padding: 5%
 }
 
 
