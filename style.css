@@ -301,6 +301,16 @@ body {
 	padding: 5%
 }
 
+div p {
+
+	position: absolute;
+	width: 60%;
+	left: 20%;
+	top: 50%;
+
+	font-size: 24px;
+	text-align: justify;
+}
 
 
 
