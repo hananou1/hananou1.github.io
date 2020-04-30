@@ -332,6 +332,19 @@ article p {
   }
 }
 
+@media screen and (max-width: 800px) {
+ 
+  .portraitJF {
+
+  	border-radius: 0 0 0 100%;
+	position: absolute;
+	left: 60%;
+	width: 50%;
+	height: 30%
+	top: 0;
+    
+  }
+}
 
 
 
