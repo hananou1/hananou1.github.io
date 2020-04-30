@@ -261,10 +261,7 @@ position: sticky;
 
 */
 
-header {
 
-	padding: 2%;
-}
 
 body {
 
@@ -275,6 +272,17 @@ body {
 
 	background-color: white;
 }
+
+.portraitJF {
+
+	border-radius: 0 0 0 100%;
+}
+
+.LogoFler {
+
+	padding: 5%;
+}
+
 
 
 
