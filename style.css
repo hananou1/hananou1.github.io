@@ -261,6 +261,11 @@ position: sticky;
 
 */
 
+body {
+
+	margin: 0;
+}
+
 .Contexte {
 
 	background-color: white;
