@@ -280,12 +280,12 @@ body {
 
 .portraitJF {
 
-	border-radius: 100 0 0 0%;
+	border-radius: 0 0 100 0%;
 	position: absolute;
 	left: 70%;
 	width: 30%;
 	height: 30%
-	top: 0;
+	top: 0px;
 	transform: matrix(-1, 0, 0, 1, 0, 0);
 
 }
