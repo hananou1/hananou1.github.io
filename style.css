@@ -318,6 +318,23 @@ article p {
 	background-color: white;
 }
 
+.ElipseBleue {
+
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1340px;
+	top: 300px;
+	background-color:#DFF6FF;
+
+}
+
+
+
+
+
+
+
 @media screen and (max-width: 1200px) {
  
   .portraitJF {
