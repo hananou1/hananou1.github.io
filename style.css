@@ -318,6 +318,13 @@ article p {
 	background-color: white;
 }
 
+@media screen and (max-width: 640px) {
+  .portraitJF {
+    display:none;
+    
+  }
+}
+
 
 
 
