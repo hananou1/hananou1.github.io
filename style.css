@@ -280,7 +280,7 @@ body {
 
 .portraitJF {
 
-	border-radius: 0 0 100 0%;
+	border-radius: 0 0 100% 0;
 	position: absolute;
 	left: 70%;
 	width: 30%;
@@ -333,7 +333,7 @@ border-radius: 100%;
 
 .bandephotos {
 
-	display: block;
+
 	
 }
 
@@ -345,7 +345,6 @@ border-radius: 100%;
  
   .portraitJF {
 
-  	border-radius: 0 0 100% 0;
 	position: absolute;
 	left: 60%;
 	width: 50%;
