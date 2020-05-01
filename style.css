@@ -270,8 +270,10 @@ body {
 
 
 .Contenaircontexte {
-
+	position: relative;
 	background-color: white;
+	width: 100%;
+	height: 600px
 }
 
 .prez {
@@ -282,36 +284,38 @@ body {
 
 	border-radius: 0 0 100% 0;
 	position: absolute;
-	left: 70%;
-	width: 30%;
-	height: 30%
-	top: 0px;
+	right: 0px;
+	top:0px;
 	transform: matrix(-1, 0, 0, 1, 0, 0);
 
 }
 
 .LogoFler {
 
-	padding: 5%;
+	padding: 3%;
 	position: absolute;
-	width: 15%;
-	left: 6%;
+	left: 3%;
+	float: left;
 }
 
 article p {
 
 	position: absolute;
-	width: 60%;
-	left: 20%;
-	top: 40%;
+	width: 66%;
+	height: 30%;
+	left: 17%;
+	right: 17%;
+	top: 50%;
+	float: left;
+
 
 	font-size: 24px;
-	text-align: justify;
+	text-align:left;
 }
 
 .backgroundcolor {
 	
-	position: absolute;
+	position: relative;
 	width: 100%;
 	height: 700px;
 	left: 0px;
@@ -324,32 +328,55 @@ article p {
 position: absolute;
 width: 100px;
 height: 100px;
-left: 980px;
+right: 280px;
 top: 150px;
 background-color: #DFF6FF;
 border-radius: 100%;
 
 }
 
-.bandephotos {
+.Contenairphotos {
 
-margin-top: 700px;
-	
+text-align: center;
+margin-top: 100px;
+background-color: #FFFAC9;
+padding-top: 50px;
+padding-bottom: 50px;
+
+
+}
+
+img {
+
+	padding: 5px;
+}
+
+.DT {
+position: absolute;
+width: 700px;
+height: 110px;
+left: 97px;
+top: 1220px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 112px;
+
+color: #F5694C;
 }
 
 
 
+}
 
 
 @media screen and (max-width: 1200px) {
  
   .portraitJF {
 
-	position: absolute;
-	left: 60%;
-	width: 50%;
-	height: 30%
-	top: 0;
+	
     
   }
 }
@@ -358,7 +385,6 @@ margin-top: 700px;
  
   .portraitJF {
 
-  	border-radius: 0 0 0 100%;
 	position: absolute;
 	left: 60%;
 	width: 50%;
