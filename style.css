@@ -351,12 +351,19 @@ img {
 	padding: 5px;
 }
 
+.Contenairmethode {
+
+	position: relative;
+
+
+}
+
 .DT {
 position: absolute;
 width: 700px;
 height: 110px;
-left: 97px;
-top: 1220px;
+left: 120px;
+top: 110px;
 
 font-family: Roboto;
 font-style: normal;
@@ -367,9 +374,14 @@ line-height: 112px;
 color: #F5694C;
 }
 
+.methode {
 
-
+	position: absolute;
+	top: 250px;
+	left: 20%;
 }
+
+
 
 
 @media screen and (max-width: 1200px) {
