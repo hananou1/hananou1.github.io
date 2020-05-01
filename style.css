@@ -193,8 +193,8 @@ border-radius: 50%;
 position: absolute;
 width: 22.09px;
 height: 22.5px;
-left: 1107px;
-top: 439px;
+left: 1102.5px;
+top: 436px;
 
 }
 
@@ -372,6 +372,7 @@ font-size: 96px;
 line-height: 112px;
 
 color: #F5694C;
+z-index: 2;
 }
 
 .methode {
