@@ -371,7 +371,7 @@ font-weight: bold;
 font-size: 96px;
 line-height: 112px;
 
-color: #F5694C;
+color: #000000;
 z-index: 2;
 }
 
@@ -382,6 +382,199 @@ z-index: 2;
 	left: 20%;
 }
 
+.ContenairDefinir {
+
+	position: relative;
+	background-color: white;
+	height: 2200px;
+	top: 680px;
+
+
+}
+
+div.ContenairDefinir h1 {
+
+	position: absolute;
+	top: 50px;
+	left: 10%;
+}
+
+.Portrait02 {
+
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	padding: 0%;
+	float: right;
+
+	border-radius: 0px 0px 900px 0px;
+	transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+div.ContenairDefinir h2 {
+
+	position: absolute;
+	top: 200px;
+	left: 20%;
+	font-size: 24px;
+}
+
+div.ContenairDefinir h3,p,ul {
+
+	position: absolute;
+	font-size: 24px;
+	left: 25%;
+
+}
+
+div.ContenairDefinir p, ul {
+
+	width: 55%;
+}
+
+.Entretiens {
+
+	position: relative;
+}
+
+div.Entretiens h3 {
+
+	position: absolute;
+	top: 310px;
+	
+} 
+
+
+div.Entretiens p {
+
+	position: absolute;
+	top: 390px;
+}
+
+div.Entretiens img {
+
+	position: absolute;
+	top: 700px;
+	left: 10%;
+	right: 10%;
+	width: 80%;
+
+}
+
+
+.SynthéseEntretiens {
+	position: relative;
+	top: 880px;
+}
+
+div.SynthéseEntretiens h3 {
+
+	position: absolute;
+	
+
+}
+
+div.SynthéseEntretiens p {
+
+	position: absolute;
+	top: 104px;
+}
+
+.Irritants {
+
+	position: relative;
+	top: 1360px;
+}
+
+div.Irritants ul {
+
+	position: absolute;
+	top: 104px;
+	list-style: none;
+	padding: 0px;
+
+}
+
+.puce1 {
+
+	position: absolute;
+	left: 16%;
+	top: 121px;
+}
+
+.puce2 {
+
+	position: absolute;
+	left: 16%;
+	top: 189px;
+
+}
+
+.puce3 {
+
+	position: absolute;
+	left: 16%;
+	top: 327px;
+
+}
+
+.puce4 {
+
+	position: absolute;
+	left: 16%;
+	top: 414px;
+
+}
+
+.puce5 {
+
+	position: absolute;
+	left: 16%;
+	top: 480px;
+
+}
+
+
+
+
+div.Irritants span {
+
+position: absolute;
+width: 500px;
+height: 105px;
+left: 75%;
+top: 250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 75px;
+text-align: center;
+
+color: #FFE800;
+
+transform: rotate(-90deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						/*MEDIA QUERIES*/
 
 
 
